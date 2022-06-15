@@ -1,3 +1,4 @@
-module.exports =  function getContests() { 
+function getContests() { 
     return new Date();
 }
+export default getContests;

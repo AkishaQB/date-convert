@@ -1,2 +1,2 @@
-declare function _exports(): Date;
-export = _exports;
+export default getContests;
+declare function getContests(): Date;
