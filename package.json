@@ -1,4 +1,7 @@
 {
     "name": "date-convert",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "devDependencies": {
+        "typescript": "^4.7.3"
+    }
 }
